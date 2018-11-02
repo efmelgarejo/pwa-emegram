@@ -1,0 +1,4 @@
+
+Para iniciar el proyecto:
+
+> npm satart
